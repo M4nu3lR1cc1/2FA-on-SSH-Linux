@@ -47,4 +47,4 @@ Dopo l’inserimento della password, ti verrà chiesto di inserire il codice OTP
 
 📺 Video dimostrativo
 Guarda il video dimostrativo su YouTube:
-🎥 
+https://youtu.be/5_btNtWLytM 🎥 
