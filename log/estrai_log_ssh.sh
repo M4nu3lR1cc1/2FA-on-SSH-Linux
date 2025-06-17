@@ -1,5 +1,9 @@
-#!/bin/bash
 
+# MIT License
+# Copyright (c) 2025 Manuel Ricci
+# See LICENSE file in the root of this repository for full license information.
+
+#!/bin/bash
 # File di origine (log di sistema)
 LOG_SORGENTE="/var/log/auth.log"
 
